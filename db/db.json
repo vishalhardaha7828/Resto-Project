@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "20be",
+      "name": "Vishnu Hardaha",
+      "email": "vishalhardaha7828@gmail.com",
+      "phone": "9343706661",
+      "message": "this website is verry good bro"
+    }
+  ],
+  "resto": [
+    {
+      "id": 1,
+      "name": "Egg Uttappam",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Roast",
+      "price": 100
+    }
+  ],
+  "cart": [ ],
+  "payment": [ ]
+}
